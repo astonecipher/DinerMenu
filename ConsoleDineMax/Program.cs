@@ -34,7 +34,7 @@ namespace ConsoleDineMax
             {
                 hungryGuestorder.items.Add(currentItem);
             }
-
+            Console.Write("This porgram was modified remotely thanks to GitHub.");
             Console.WriteLine("The total is {0}", hungryGuestorder.total.ToString("c"));
             Console.ReadKey();
 

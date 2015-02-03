@@ -4,3 +4,6 @@ c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDine
 c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDineMax\bin\Debug\ConsoleDineMax.pdb
 c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDineMax\obj\Debug\ConsoleDineMax.exe
 c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDineMax\obj\Debug\ConsoleDineMax.pdb
+C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.exe.config
+C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.exe
+C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.pdb
