@@ -1,0 +1,6 @@
+c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDineMax\bin\Debug\ConsoleDineMax.exe.config
+c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDineMax\obj\Debug\ConsoleDineMax.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDineMax\bin\Debug\ConsoleDineMax.exe
+c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDineMax\bin\Debug\ConsoleDineMax.pdb
+c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDineMax\obj\Debug\ConsoleDineMax.exe
+c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDineMax\obj\Debug\ConsoleDineMax.pdb
