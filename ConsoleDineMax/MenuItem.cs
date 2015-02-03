@@ -8,13 +8,23 @@ namespace ConsoleDineMax
 {
     public class MenuItem
     {
-        public string title;
-        public string description;
-        public double price;
-
-
-
-
-
+        public string Title;
+        public string Description;
+        public double Price
+        {
+            get { return _price; }
+            set
+            {
+                if (value > 0)
+                {
+                    _price = value;
+                }
+                else
+                {
+                    throw new ApplicationException("Price is below minimum.");
+                }
+            }
+        }
+        private double _price;
     }
 }

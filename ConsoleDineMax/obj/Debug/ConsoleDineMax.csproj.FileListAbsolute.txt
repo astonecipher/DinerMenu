@@ -10,3 +10,9 @@ C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.pdb
 C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.exe
 C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.pdb
 C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.exe.config
+C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.exe
+C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.pdb
+C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.exe
+C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.pdb
+C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.csprojResolveAssemblyReference.cache
