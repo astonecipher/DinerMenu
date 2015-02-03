@@ -7,3 +7,6 @@ c:\users\andrew\documents\visual studio 2013\Projects\ConsoleDineMax\ConsoleDine
 C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.exe.config
 C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.exe
 C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.pdb
+C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.exe
+C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.pdb
+C:\Users\Use\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.csprojResolveAssemblyReference.cache
