@@ -17,7 +17,7 @@ namespace ConsoleDineMax
                double calculatedTotal = 0;
                foreach ( MenuItem item in items)
                {
-                   calculatedTotal = calculatedTotal + item.price;
+                   calculatedTotal = calculatedTotal + item.Price;
                }
                return calculatedTotal;
            }

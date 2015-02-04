@@ -16,9 +16,9 @@ namespace ConsoleDineMax
         public void AddMenuItem( string title, string description, double price)
         {
             MenuItem item = new MenuItem();
-            item.title = title;
-            item.description = description;
-            item.price = price;
+            item.Title = title;
+            item.Description = description;
+            item.Price = price;
             items.Add(item);
 
         }

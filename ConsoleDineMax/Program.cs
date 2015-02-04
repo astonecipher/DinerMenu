@@ -34,8 +34,19 @@ namespace ConsoleDineMax
             {
                 hungryGuestorder.items.Add(currentItem);
             }
-            Console.WriteLine("This porgram was modified remotely thanks to GitHub.");
+
+
             Console.WriteLine("The total is {0}", hungryGuestorder.total.ToString("c"));
+
+            try
+            {
+
+                outsideDrinks.AddMenuItem("Beer", "Everyone likes free beer.", 0);
+            }
+            catch ( Exception e )
+            {
+                Console.WriteLine(e.Message);
+            }
             Console.ReadKey();
 
         }
