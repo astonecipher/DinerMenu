@@ -16,3 +16,5 @@ C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.p
 C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.exe
 C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\ConsoleDineMax.pdb
 C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\obj\Debug\ConsoleDineMax.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\DinerMaxBusinessLayer.dll
+C:\Users\Andrew\Source\Repos\DinerMenu\ConsoleDineMax\bin\Debug\DinerMaxBusinessLayer.pdb
